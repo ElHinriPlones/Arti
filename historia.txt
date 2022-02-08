@@ -9,7 +9,6 @@ entre sus manos la magia burda ahora yace
 como un número de histeria adulta latente.
 
 En su vida no concilio la paz de ser amado
-<<<<<<< HEAD
 del modo en que él lo concebía.
 La circunstancia más áspera camina
 entera su cabeza cubierta del cabello
@@ -19,8 +18,3 @@ en lo recóndito de su especial recuerdo.
 
 En su columna, como por espesor,
 guarda cicatrices de brumas
-=======
-del modo en que él lo concebía,
-víctima del sulfuro de sus allegados,
-convive con la incertidumbre en cada día.
->>>>>>> b9607ca9ad7a83849ff74082123d71d10f4b3144
